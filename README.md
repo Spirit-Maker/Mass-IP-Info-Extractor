@@ -1,6 +1,9 @@
 # Mass IP Info Extractor
 
-![Mass IP Info Extractor](./thumbnail.png)
+<p align="center">
+  <img src="img/thumbnail.png" alt="Mass IP Info Extractor" width="350" height="350">
+</p>
+
 
 **Mass IP Info Extractor** is a command-line Python tool that takes in a list of IPs (from one or multiple CSV files) and retrieves detailed geographical and network information for each IP address. The results are outputted in JSON format, with an optional export to Excel. This tool is designed for penetration testers, data analysts, and IT professionals who need efficient, large-scale IP data retrieval.
 
